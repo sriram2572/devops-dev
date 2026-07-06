@@ -1,0 +1,8 @@
+ai_description = """Artificial Intellig
+ence (AI) refers to the capability of a
+digital computer or computer-controlled 
+robo to perform tasks commonly associated with
+ intelligent beings. These tasks include reasoning, learning, 
+ problem-solving, perception, and language understanding. 
+ AI encompasses a wide range of technologies, including machine learning, deep learning, and natural 
+language processing (NLP)."""
